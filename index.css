@@ -1,0 +1,18 @@
+h1 {
+    font-size: 30px;
+    color: blueviolet;
+    margin-bottom: 10px;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+.output {
+    font-size: 35px;
+    color: blueviolet;
+}
